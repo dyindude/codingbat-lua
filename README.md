@@ -1,1 +1,1 @@
-coingbat.com programming examples, written in lua
+coingbat.com solutions, written in lua
