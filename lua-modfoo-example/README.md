@@ -1,4 +1,4 @@
-#lua modules
+#lua-modfoo-example
 This folder is just me working through understanding how modules in lua are "supposed" to work. I had started with the `module()` function until I read that it has been deprecated.
 
 Some good reading, for those who are interested:
