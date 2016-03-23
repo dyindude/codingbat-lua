@@ -1,10 +1,7 @@
-local require = require
-local string = string
+local string_times = {}
 
-module(...)
-
-local string = require 'string'
-
-function string_times(str,n)
+function string_times.string_times(str,n)
   return string.rep(str,n)
 end
+
+return string_times

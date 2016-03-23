@@ -1,5 +1,4 @@
 describe("test string_times", function()
-    ---string_times = false
     it("string_times function tests", function()
         string_times = require('string_times')
         local values = {{'Hi',      2, 'HiHi'},
